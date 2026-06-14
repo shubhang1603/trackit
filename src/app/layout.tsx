@@ -9,7 +9,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'Hive | Job Tracker Dashboard',
+  title: 'TrackIT-Job Tracker',
   description:
     'A polished job search dashboard for tracking applications, interviews, offers, and outcomes.',
 }
